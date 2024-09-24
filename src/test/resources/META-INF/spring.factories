@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = com.google.myapp.\
+    config.SqlTestContainersSpringContextCustomizerFactory,com.google.myapp.\
+    config.TestContainersSpringContextCustomizerFactory
